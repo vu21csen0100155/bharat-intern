@@ -1,0 +1,391 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.container {
+    background-color: black;
+    background-size: cover;
+
+}
+
+.container-2 {
+    background-image: url("https://i.pinimg.com/originals/84/18/d7/8418d756cc9038b87815a4f2d4f2a16f.jpg");
+    height: 400px;
+    background-size: cover;
+}
+
+.netflix-icon {
+    height: 50px;
+    width: 30px;
+}
+
+.search-icon {
+    color: white;
+    width: 50px;
+    font-size: 24px;
+    padding-top: 10px;
+}
+
+.smiley {
+    color: #62ACD1;
+    width: 50px;
+    font-size: 24px;
+    padding-top: 10px;
+}
+
+.h1 {
+    color: #C7CBCC;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    font-family: "roboto";
+    font-size: 18px;
+}
+
+.h2 {
+    color: #C7CBCC;
+    padding-bottom: 15px;
+    padding-left: 60px;
+    font-family: "roboto";
+    font-size: 18px;
+}
+
+.down-icon {
+    color: white;
+    width: 50px;
+    font-size: 24px;
+    padding-left: 10px;
+}
+
+.h4 {
+    color: white;
+    font-family: "roboto";
+    padding-left: 30px;
+    font-size: 14px;
+    margin-bottom: 0;
+}
+
+.dot {
+    color: #6D6E6F;
+    font-size: 4px;
+    margin-left: 5px;
+}
+
+.dot-container {
+    display: flex;
+    align-items: center;
+}
+
+.h5 {
+    color: white;
+    font-family: "roboto";
+    padding-left: 5px;
+    font-size: 14px;
+    margin-bottom: 0;
+}
+
+.plus {
+    color: white;
+    font-size: 24px;
+    font-weight: normal;
+}
+
+.container-3 {
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 120px;
+}
+
+.h7 {
+    color: #808283;
+    font-family: "roboto";
+    font-size: 10px;
+}
+
+.button-container {
+    padding-left: 80px;
+}
+
+.button {
+    background-color: white;
+    border-radius: 3px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: black;
+    font-family: "roboto";
+    font-size: 15px;
+    border-color: white;
+    margin: 0px;
+}
+
+.info-container {
+    padding-left: 80px;
+    padding-top: 2px;
+}
+
+.info {
+    color: white;
+    font-size: 24px;
+}
+
+.h8 {
+    color: #808283;
+    font-family: "roboto";
+    font-size: 10px;
+    padding-top: 2px;
+}
+
+.h9 {
+    color: white;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 20px;
+    padding-top: 30px;
+}
+
+.movie {
+    width: 100px;
+    height: 120px;
+    border-radius: 5px;
+    margin: 3px;
+}
+
+.house {
+    color: #808283;
+    padding-left: 40px;
+}
+
+.home {
+    color: #808283;
+    font-family: "roboto";
+    font-size: 9px;
+    padding-left: 40px;
+}
+
+.cc3 {
+    padding-left: 80px;
+}
+
+.game {
+    color: #808283;
+    font-family: "roboto";
+    font-size: 9px;
+}
+
+.container1 {
+    background-color: black;
+    background-size: cover;
+
+}
+
+.arrow {
+    color: white;
+    font-size: 24px;
+    padding: 5px;
+}
+
+.h10 {
+    color: white;
+    font-family: "roboto";
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 5px;
+}
+
+.p {
+    color: #8E9092;
+    font-size: 10px;
+    padding-left: 5px;
+}
+
+.pc {
+    padding-left: 7px;
+}
+
+.p1 {
+    color: #646566;
+    font-size: 10px;
+    background-color: #3C3D3E;
+}
+
+.p2 {
+    color: #BBBEC2;
+    font-size: 10px;
+    background-color: black;
+    border-color: #BBBEC2;
+}
+
+.spatial-icon {
+    color: #646566;
+    font-size: 10px;
+    padding-left: 7px;
+}
+
+.audio {
+    color: #8E9092;
+    padding-left: 2px;
+    font-size: 6px;
+}
+
+.AD {
+    font-family: "italian";
+    color: #646566;
+    font-size: 10px;
+    padding-left: 7px;
+}
+
+.last-icon {
+    color: #646566;
+    font-size: 10px;
+    padding-left: 7px;
+}
+
+.pi {
+    color: black;
+    font-size: 20px;
+}
+
+.play-button {
+    padding-left: 190px;
+    padding-right: 190px;
+    color: black;
+    background-color: white;
+    font-size: 15px;
+    margin: 3px;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.di {
+    color: white;
+    font-size: 20px;
+}
+
+.download-button {
+    padding-left: 190px;
+    padding-right: 190px;
+    color: white;
+    background-color: #2A2B2B;
+    border-color: black;
+    font-size: 15px;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.story {
+    color: white;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: normal;
+    padding-top: 10px;
+}
+
+.t {
+    color: #646566;
+}
+
+.hr {
+    color: red;
+    background-color: #A71414;
+    width: 50%;
+    text-align: left;
+    margin-left: 0;
+}
+
+.p4 {
+    color: #646566;
+    font-size: 13px;
+}
+
+.p5 {
+    color: #95A5A6;
+    font-size: 13px;
+}
+
+.p6 {
+    color: white;
+    font-size: 13px;
+}
+
+.container-4 {
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 60px;
+}
+
+.cc5 {
+    text-align: center;
+    padding-top: 2px;
+    padding-left: 80px;
+    font-size: 20px;
+}
+
+.thp {
+    color: white;
+    padding-top: 3px;
+}
+
+.hr1 {
+    color: red;
+    background-color: grey;
+    width: 100%;
+    text-align: left;
+    margin-left: 0;
+}
+
+.imgb1 {
+    width: 150px;
+    height: 200px;
+    margin: 2px;
+}
+
+.containertv {
+    background-color: black;
+    background-size: cover;
+    height: 200vh;
+}
+
+.cctv {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI2rPyRig8po-mbm4tQrARyOHWq3Dg0nSkdg&usqp=CAU");
+    height: 400px;
+    background-size: cover;
+}
+
+.Ch1 {
+    padding-left: 20px;
+    padding-top: 5px;
+}
+
+.h11 {
+    color: white;
+    font-size: 23px;
+    font-family: "roboto";
+    font-weight: bold;
+}
+
+.h12 {
+    color: #C7CBCC;
+    padding-bottom: 15px;
+    font-family: "roboto";
+    font-size: 15px;
+}
+
+.h13 {
+    color: #C7CBCC;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    font-family: "roboto";
+    font-size: 15px;
+}
+
+.da1 {
+    font-size: 15px;
+    color: white;
+    padding-left: 3px;
+    padding-top: 2px;
+}
+
+.cc6 {
+    padding-left: 45px;
+}
